@@ -1,6 +1,6 @@
 # Transform Raw Text to Word Embeddings
 
-### A simple way to transform raw text data into word embeddings for use it in your machine learning project.
+#### A simple way to transform raw text data into word embeddings for use it in your machine learning project.
 
 #
 
