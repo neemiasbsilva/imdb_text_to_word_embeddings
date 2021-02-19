@@ -1,4 +1,4 @@
-# Transform Raw Text to Word Embeddings Application
+# Transform Raw Text to Word Embeddings
 
 
 
