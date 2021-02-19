@@ -20,7 +20,7 @@ pip install tensorflow
 pip install keras
 ```
 
-**Note**: you can install this package in a virtual environment, in my opnion its better.
+**Note**: you can install theses packages using a virtual environment, in my opnion its better.
 
 ### Usage
 
